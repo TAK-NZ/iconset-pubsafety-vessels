@@ -1,5 +1,5 @@
 #!/bin/bash
 cd source
-zip -r "../datapackage/iconsets/Public Safety Vessels.zip" iconset.xml */
+zip -r "../datapackage/iconsets/Public Safety Vessels.zip" iconset.xml Vessels/
 cd ../datapackage
 zip -r "../PublicSafetyVessels-Package.zip" MANIFEST/ iconsets/

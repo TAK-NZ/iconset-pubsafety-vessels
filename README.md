@@ -33,11 +33,11 @@ This will generate `PublicSafetyVessels-Package.zip` which can be imported into 
 Once installed, reference these icons using the format: `{iconset-uid}/{filename}`
 
 Examples:
-- `f8c9d2a1-4b5e-4c7f-9a8b-1d2e3f4g5h6i/CustomsVessel.png`
-- `f8c9d2a1-4b5e-4c7f-9a8b-1d2e3f4g5h6i/FireVessel.png`
-- `f8c9d2a1-4b5e-4c7f-9a8b-1d2e3f4g5h6i/PilotVessel.png`
-- `f8c9d2a1-4b5e-4c7f-9a8b-1d2e3f4g5h6i/PoliceVessel.png`
-- `f8c9d2a1-4b5e-4c7f-9a8b-1d2e3f4g5h6i/SARVessel.png`
+- `f8c9d2a1-4b5e-4c7f-9a8b-1d2e3f4g5h6i:Vessels/CustomsVessel.png`
+- `f8c9d2a1-4b5e-4c7f-9a8b-1d2e3f4g5h6i:Vessels/FireVessel.png`
+- `f8c9d2a1-4b5e-4c7f-9a8b-1d2e3f4g5h6i:Vessels/PilotVessel.png`
+- `f8c9d2a1-4b5e-4c7f-9a8b-1d2e3f4g5h6i:Vessels/PoliceVessel.png`
+- `f8c9d2a1-4b5e-4c7f-9a8b-1d2e3f4g5h6i:Vessels/SARVessel.png`
 
 ## Structure
 
